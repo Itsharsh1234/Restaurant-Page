@@ -1,1 +1,1 @@
-# Restaurant-Page
+# odin-restaurant-project
